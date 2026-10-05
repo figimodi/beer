@@ -301,12 +301,12 @@ Il profilo dell'acqua risultante è circa:
 
 |Ione|Quantità in $\mathrm{mg/L}$|
 |:---:|:---:|
-|Calcio $\mathrm{Ca^{2+}}$|34|
-|Magnesio $\mathrm{Mg^{2+}}$|2.5|
-|Sodio $\mathrm{Na^+}$|2.9|
-|Cloruro $\mathrm{Cl^-}$|5|
-|Solfato $\mathrm{SO_4^{2-}}$|3.6|
-|Bicarbonato $\mathrm{HCO_3^-}$|113|
+|Calcio $\mathrm{Ca^{2+}}$|$34$|
+|Magnesio $\mathrm{Mg^{2+}}$|$2.5$|
+|Sodio $\mathrm{Na^+}$|$2.9$|
+|Cloruro $\mathrm{Cl^-}$|$5$|
+|Solfato $\mathrm{SO_4^{2-}}$|$3.6$|
+|Bicarbonato $\mathrm{HCO_3^-}$|$113$|
 
 Con un `residuo fisso` di $112\mathrm{mg/L}$.
 
