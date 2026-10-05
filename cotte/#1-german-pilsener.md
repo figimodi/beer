@@ -1,11 +1,24 @@
-# Cotta \#1 - 19/09/2026
+# Cotta \#1
+
+<table>
+  <tbody>
+    <tr>
+      <td>Data</td>
+      <td>19 Settembre 2026</td>
+    </tr>
+    <tr>
+      <td>Ore di lavoro</td>
+      <td>8-9</td>
+    </tr>
+  </tbody>
+</table>
 
 ## <u>Stime e obbiettivi</u>
-<table >
+<table>
   <tbody>
     <tr>
       <td>Stile</td>
-      <td>German Pilsener</td>
+      <td>German Pilsener (5D)</td>
     </tr>
     <tr>
       <td>Litri in fermentatore</td>
